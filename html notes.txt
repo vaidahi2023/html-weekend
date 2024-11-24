@@ -1,0 +1,77 @@
+HTML stands for HyperText Markup Language.
+It is the standard language used to create and design web pages on the internet. 
+It was introduced by Tim Berners-Lee in 1991 as a simple markup language.
+html-- hypertext Markup Language
+
+html is used to create webpage and website
+
+webpage-- it is a collection of images,hyperlink,tables,list.
+
+website--it is a collection of webpages.
+
+html is not case sensitive language.
+case sensitive -- uppercase letter and lowercase letter are different. 
+
+syntax: 
+<tag_name>--tag
+
+<HTML> --opening tag
+</HTML> --closing tag
+
+structure of html
+
+<html>
+	<head>
+	</head>
+	<body>
+	</body>
+</html>
+
+ide--integrated development environment
+
+---notepad,visual studio code (vs code),online complier,notepad++
+
+The <!DOCTYPE html> declaration defines that this document is an HTML5 document
+●The <!DOCTYPE> declaration is not case sensitive.
+●The <!DOCTYPE> declaration for HTML5 
+●The <html> element is the root element of an HTML page
+●The <head> element contains meta information about the HTML page
+●The <title> element specifies a title for the HTML page (which is shown in the browser's title bar or in the page's tab)
+●The title attribute defines some extra information about an element
+●The <body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
+
+to save the html file,we will use .html extension.
+example: filename.html
+
+heading tag:
+<h1>Heading 1</h1>
+<h2>heading 2</h2>		
+<h3>heading 3</h3>
+<h4>heading 4</h4>
+<h5>heading 5</h5>
+<h6>heading 6</h6>
+
+2)heading tags : 
+●<h1> to <h6>
+
+3)paragraph tag:
+●p tag 
+●pre tag: predefined  text
+
+4)text formatting tag
+●<b> : it is used to bold text
+●<strong> :bold text
+●<i> :italic 
+●<em>:emphasis tag
+●<u>:underline tag
+●<ins>:underline tag
+●<mark>:highlight tag
+●<sub>:sub script tag
+●<sup>:super script tag
+●<del>: delete tag
+●<strike>: delete tag
+
+2)Empty  Tags:
+
+●<br>: break
+●<hr>: horizontal rule
