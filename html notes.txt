@@ -75,3 +75,32 @@ heading tag:
 
 ●<br>: break
 ●<hr>: horizontal rule
+
+HTML Attributes
+●All HTML elements can have attributes
+●Attributes provide additional information about elements
+●Attributes are always specified in the start tag
+●Attributes usually come in name/value pairs like: name="value",src="www.google.com"
+src=attribute,"www.google.com"=value
+3)<img> tag:
+–src
+●External source
+●Internal source
+–alt = “alternate message”
+–Width = “ ” - css
+–Height = “ ” - css
+1:Absolute URL - Links to an external image that is hosted on another website. Example: src="https://www.w3schools.com/images/img_girl.jpg".
+2. Relative URL - Links to an image that is hosted within the website. Here, the URL does not include the domain name. If the URL begins without a slash, it will be relative to the current page. Example: src="img_girl.jpg". If the URL begins with a slash, it will be relative to the domain. Example: src="/images/img_girl.jpg".
+3.<img> tag attribute use:
+The src attribute of <img> specifies the path to the image to be displayed
+The width and height attributes of <img> provide size information for images
+The alt attribute of <img> provides an alternate text for an image
+
+4)<a> tag:
+–href
+●External Links
+●Internal Links
+–Name of link
+–target = “_blank” attribute
+–Image in place of ‘name of link’
+The style attribute is used to add styles to an element, such as color, font, size, and more
