@@ -104,3 +104,14 @@ The alt attribute of <img> provides an alternate text for an image
 –target = “_blank” attribute
 –Image in place of ‘name of link’
 The style attribute is used to add styles to an element, such as color, font, size, and more
+
+●<bdo>:BDO stands for Bi-Directional Override.
+The HTML <bdo> tag is used to override the current text direction:
+<bdo type="rtl"></bdo>
+
+6)Marquee tag – moving text, image
+●behavior = “scroll”, “slide”,“alternate”; 
+●direction = “left”, “right”, “up”, “down”; 
+●scrollamount =“20”; 
+●bgcolor; width; height; loop=“1”
+
